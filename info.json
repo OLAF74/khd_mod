@@ -1,6 +1,6 @@
 {
-  "version": "234",
-  "whats_new": "Фикс: Раздел Случайный\r\nФикс: Раздел КиноПоиск\r\nФикс: Торренты, Yohoho\r\nФикс: Animevost, автопереключение серий\r\nДругие мелкие исправлении",
+  "version": "235",
+  "whats_new": "Фикс: Раздел Торренты (в боковом меню)\r\nФикс: Источники торрента Kinopad, Piratbit\r\nФикс: Повторная авторизация\r\nДругие мелкие исправлении",
   "files": "https://raw.githubusercontent.com/OLAF74/khd_mod/master/app-release.apk",
-  "update_size": 6101842
+  "update_size": 6132630
 }
