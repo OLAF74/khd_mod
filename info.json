@@ -1,6 +1,6 @@
 {
-  "version": "235",
-  "whats_new": "Фикс: Раздел Торренты (в боковом меню)\r\nФикс: Источники торрента Kinopad, Piratbit\r\nФикс: Повторная авторизация\r\nДругие мелкие исправлении",
+  "version": "237",
+  "whats_new": "Восстановлен источник Videoframe (до 720p)\r\nФикс: Авторизация Filmix (ошибка доступа на 720p)\r\nФикс: Постеры на канале \"История\" (ATV)\r\nФикс: Источник Kodik ...\r\nПереход на новый движок\r\nДругие мелкие исправлении",
   "files": "https://raw.githubusercontent.com/OLAF74/khd_mod/master/app-release.apk",
-  "update_size": 6132630
+  "update_size": 5018155
 }
